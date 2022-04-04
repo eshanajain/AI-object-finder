@@ -1,0 +1,56 @@
+
+
+.heading
+{
+    background-color: floralwhite;
+    color: forestgreen;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:100;
+    font-style: italic;
+}
+
+.note
+{
+    background-color: fuchsia;
+    color:gainsboro;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+}
+
+#input_box
+{
+    background-color: ghostwhite;
+    color: gold;
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+}
+
+#start
+{
+    background-color: goldenrod;
+    color: gray;
+    font-size: medium;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style:inherit;
+}
+
+#status
+{
+    background-color: green;
+    color: greenyellow;
+    font-size: medium;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-style: initial;
+}
+
+#object_status
+{
+    background-color: grey;
+    color: honeydew;
+    font-size: medium;
+    font-family:'Times New Roman', Times, serif;
+    font-style:unset;
+}
