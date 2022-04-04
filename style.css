@@ -59,5 +59,6 @@ canvas
 {
     border: 2px solid hotpink;
     border-radius:10px;
+    margin-top: 140px;
     box-shadow:10px 10px indianred;
 }
